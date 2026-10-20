@@ -1,0 +1,423 @@
+{
+ "meta": {
+  "title": "$atyam | Satyam Singh Portfolio",
+  "desc": "Satyam Singh - graphic designer, photographer, video editor and motion artist from Satna."
+ },
+ "brand": {
+  "logo": "",
+  "loader": "$ATYAM",
+  "loaderLabel": "Focusing"
+ },
+ "nav": [
+  {
+   "label": "About",
+   "href": "#about"
+  },
+  {
+   "label": "Services",
+   "href": "#services"
+  },
+  {
+   "label": "Projects",
+   "href": "#projects"
+  },
+  {
+   "label": "Contact",
+   "href": "#contact"
+  }
+ ],
+ "hero": {
+  "greet": "Hi, I'm",
+  "name": "$atyam",
+  "tagline": "A graphic designer, photographer, editor and motion artist from Satna, crafting bold and memorable work.",
+  "btn": "Contact me",
+  "btnHref": "#contact",
+  "portrait": {
+   "t": "i",
+   "r": "uploads/mvfytmvr-lrm-20260619-142816-jpg.jpg",
+   "a": "Portrate",
+   "p": ""
+  }
+ },
+ "skills": {
+  "items": [
+   {
+    "abbr": "Ps",
+    "label": "Photoshop"
+   },
+   {
+    "abbr": "Ae",
+    "label": "After Effects"
+   },
+   {
+    "abbr": "Pr",
+    "label": "Premiere Pro"
+   },
+   {
+    "abbr": "Gd",
+    "label": "Graphic design"
+   },
+   {
+    "abbr": "Ph",
+    "label": "Photography"
+   },
+   {
+    "abbr": "Ve",
+    "label": "Video editing"
+   },
+   {
+    "abbr": "Mg",
+    "label": "Motion graphics"
+   },
+   {
+    "abbr": "Wd",
+    "label": "Web design"
+   }
+  ]
+ },
+ "gallery": [
+  [
+   {
+    "m": {
+     "t": "i",
+     "r": "b:temple",
+     "a": "Temple domes against the sky"
+    },
+    "s": "d"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:kid",
+     "a": "Child smiling through a hole"
+    },
+    "s": "b"
+   },
+   {
+    "m": {
+     "t": "v",
+     "r": "bv:v1",
+     "a": "PACE EA ad"
+    },
+    "s": "c"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:scooter",
+     "a": "Rusty Bajaj Super scooter"
+    },
+    "s": "c"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:leaves",
+     "a": "Rain on leaves"
+    },
+    "s": "b"
+   },
+   {
+    "m": {
+     "t": "v",
+     "r": "bv:v3",
+     "a": "Brand reel"
+    },
+    "s": "c"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:car",
+     "a": "Old Ambassador car"
+    },
+    "s": "d"
+   }
+  ],
+  [
+   {
+    "m": {
+     "t": "v",
+     "r": "bv:v2",
+     "a": "PACE glass ad"
+    },
+    "s": "c"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:car",
+     "a": "Old Ambassador car"
+    },
+    "s": "b"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:leaves",
+     "a": "Rain on leaves"
+    },
+    "s": "d"
+   },
+   {
+    "m": {
+     "t": "v",
+     "r": "bv:v4",
+     "a": "Cultural performance reel"
+    },
+    "s": "c"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:temple",
+     "a": "Temple domes"
+    },
+    "s": "b"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:scooter",
+     "a": "Bajaj Super scooter"
+    },
+    "s": "d"
+   },
+   {
+    "m": {
+     "t": "i",
+     "r": "b:kid",
+     "a": "Child smiling"
+    },
+    "s": "c"
+   }
+  ]
+ ],
+ "about": {
+  "title": "About me",
+  "text": "I'm Satyam Singh from Satna. I design graphics, shoot photos, edit videos, create motion graphics and design websites, all with the full Adobe toolkit. I started in 10th grade with video editing, then learned photography and one craft after another. Let's create something amazing together!",
+  "btn": "Contact me",
+  "btnHref": "#contact"
+ },
+ "services": {
+  "title": "Services",
+  "items": [
+   {
+    "title": "Graphic design",
+    "text": "Posters, social posts and brand visuals made in Photoshop to stand out in the feed."
+   },
+   {
+    "title": "Photography",
+    "text": "Street, people and portrait frames, shot and colour graded with a cinematic eye."
+   },
+   {
+    "title": "Video editing",
+    "text": "Reels and brand videos cut in Premiere Pro for rhythm and impact."
+   },
+   {
+    "title": "Motion graphics",
+    "text": "Animated ads and explainers in After Effects with a glassy, modern look."
+   },
+   {
+    "title": "Website design",
+    "text": "Portfolio and brand websites with clean structure and smooth animation."
+   }
+  ]
+ },
+ "projects": {
+  "title": "Projects",
+  "items": [
+   {
+    "name": "edm.frames",
+    "tag": "Photography",
+    "btn": "Visit page",
+    "url": "https://instagram.com/edm.frames",
+    "layout": "photos",
+    "tiles": [
+     {
+      "m": {
+       "t": "i",
+       "r": "b:car",
+       "a": "Ambassador car"
+      }
+     },
+     {
+      "m": {
+       "t": "i",
+       "r": "b:scooter",
+       "a": "Bajaj Super scooter"
+      }
+     },
+     {
+      "m": {
+       "t": "i",
+       "r": "b:temple",
+       "a": "Temple domes"
+      }
+     }
+    ],
+    "moreText": ""
+   },
+   {
+    "name": "edm_contact",
+    "tag": "Motion graphics",
+    "btn": "Visit page",
+    "url": "https://instagram.com/edm_contact",
+    "layout": "videos",
+    "tiles": [
+     {
+      "m": {
+       "t": "v",
+       "r": "bv:v1",
+       "a": "PACE EA ad"
+      }
+     },
+     {
+      "m": {
+       "t": "v",
+       "r": "bv:v2",
+       "a": "PACE glass ad"
+      }
+     }
+    ],
+    "moreText": ""
+   },
+   {
+    "name": "ediyam__",
+    "tag": "Brand and event reels",
+    "btn": "Visit page",
+    "url": "https://instagram.com/ediyam__",
+    "layout": "videos",
+    "tiles": [
+     {
+      "m": {
+       "t": "v",
+       "r": "bv:v3",
+       "a": "Brand reel"
+      }
+     },
+     {
+      "m": {
+       "t": "v",
+       "r": "bv:v4",
+       "a": "Cultural performance reel"
+      }
+     }
+    ],
+    "moreText": ""
+   }
+  ]
+ },
+ "insta": {
+  "heading": "Find my work on Instagram",
+  "emoji": "😍",
+  "items": [
+   {
+    "url": "https://instagram.com/edm.frames",
+    "handle": "@edm.frames",
+    "text": "Photography frames, shot and graded with a cinematic eye.",
+    "avatar": {
+     "t": "i",
+     "r": "av:0",
+     "a": ""
+    }
+   },
+   {
+    "url": "https://instagram.com/edm_contact",
+    "handle": "@edm_contact",
+    "text": "Motion graphics and animated ad films.",
+    "avatar": {
+     "t": "i",
+     "r": "av:1",
+     "a": ""
+    }
+   },
+   {
+    "url": "https://instagram.com/ediyam__",
+    "handle": "@ediyam__",
+    "text": "Brand reels and event edits.",
+    "avatar": {
+     "t": "i",
+     "r": "av:2",
+     "a": ""
+    }
+   },
+   {
+    "url": "https://instagram.com/clips.by.satyam",
+    "handle": "@clips.by.satyam",
+    "text": "Short clips and quick cuts.",
+    "avatar": {
+     "t": "i",
+     "r": "av:3",
+     "a": ""
+    }
+   },
+   {
+    "url": "https://instagram.com/me__satyamm",
+    "handle": "@me__satyamm",
+    "text": "Personal account of Satyam Singh.",
+    "avatar": {
+     "t": "i",
+     "r": "av:4",
+     "a": ""
+    }
+   }
+  ]
+ },
+ "contact": {
+  "heading": "Let's get in touch",
+  "email": "ediyamvision@gmail.com",
+  "phone": "+91 87701 58947",
+  "wa": "918770158947",
+  "waLabel": "WhatsApp me"
+ },
+ "footer": {
+  "big": "$atyam\nSingh",
+  "socials": [
+   {
+    "label": "@me__satyamm",
+    "url": "https://instagram.com/me__satyamm"
+   },
+   {
+    "label": "@edm.frames",
+    "url": "https://instagram.com/edm.frames"
+   },
+   {
+    "label": "@edm_contact",
+    "url": "https://instagram.com/edm_contact"
+   },
+   {
+    "label": "@ediyam__",
+    "url": "https://instagram.com/ediyam__"
+   },
+   {
+    "label": "@clips.by.satyam",
+    "url": "https://instagram.com/clips.by.satyam"
+   }
+  ],
+  "location": "Satna, India",
+  "note": "Want to see more? Visit my Instagram pages above.",
+  "sigName": "$atyam",
+  "sig": "All rights reserved $ Designed and built by Satyam Singh"
+ },
+ "show": {
+  "skills": true,
+  "gallery": true,
+  "about": true,
+  "services": true,
+  "projects": true,
+  "insta": true,
+  "contact": true
+ },
+ "theme": {
+  "c1": "#4c3cff",
+  "c2": "#000000",
+  "c3": "#ffa21a",
+  "bg": "#000000",
+  "light": "#e9eef1",
+  "fontHd": "",
+  "fontHero": "",
+  "fontBody": "",
+  "css": ""
+ }
+}
